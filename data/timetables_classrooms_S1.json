@@ -1,5 +1,5 @@
 {
-    "date_range": "Monday 10 November 2025 - Friday 14 November 2025",
+    "date_range": "Monday 17 November 2025 - Friday 21 November 2025",
     "timetables": {
         "monday": {
             "08:00-09:00": "",
@@ -21,10 +21,10 @@
             "11:00-12:00": "",
             "12:00-13:00": "",
             "13:00-14:00": "",
-            "14:00-15:00": "Prova finale PFI - prof.ssa Massini",
-            "15:00-16:00": "Prova finale PFI - prof.ssa Massini",
-            "16:00-17:00": "",
-            "17:00-18:00": "",
+            "14:00-15:00": "Tutorato ACSAI - Algebra Lineare - Max Tschaikowski - Giuliano ZIRALDO",
+            "15:00-16:00": "Tutorato ACSAI - Algebra Lineare - Max Tschaikowski - Giuliano ZIRALDO",
+            "16:00-17:00": "Tutorato ACSAI - Algebra Lineare - Max Tschaikowski - Giuliano ZIRALDO",
+            "17:00-18:00": "Tutorato ACSAI - Algebra Lineare - Max Tschaikowski - Giuliano ZIRALDO",
             "18:00-19:00": ""
         },
         "wednesday": {
@@ -32,8 +32,8 @@
             "09:00-10:00": "",
             "10:00-11:00": "",
             "11:00-12:00": "",
-            "12:00-13:00": "Meeting Progetto De Sensi",
-            "13:00-14:00": "Meeting Progetto De Sensi",
+            "12:00-13:00": "",
+            "13:00-14:00": "",
             "14:00-15:00": "",
             "15:00-16:00": "",
             "16:00-17:00": "",
